@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527314231266",
+    "project_id": "rescuecare",
+    "storage_bucket": "rescuecare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527314231266:android:7fe92204c5f7300458a3bb",
+        "android_client_info": {
+          "package_name": "com.example.resquecare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY2tZ6FWWRhcgoZMKSPsMDRu69cj41tws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
